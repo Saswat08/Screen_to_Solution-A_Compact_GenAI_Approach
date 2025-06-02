@@ -1,6 +1,6 @@
 # Screen_to_Solution-A_Compact_GenAI_Approach
 
-# Genius Calculator: From Screen to Solution 🧠📷➕
+# From Screen to Solution 🧠📷➕
 An AI-powered web-based educational tool that interprets handwritten math and physics problems and generates step-by-step solutions using computer vision, symbolic computation, and generative AI.
 
 ---
