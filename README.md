@@ -1,0 +1,1 @@
+# Screen_to_Solution-A_Compact_GenAI_Approach
