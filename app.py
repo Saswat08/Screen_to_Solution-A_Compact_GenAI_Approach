@@ -12,7 +12,7 @@ import google.generativeai as genai
 import markdown
 
 # Configure the API
-api_key = "AIzaSyBdDcD27Dxfgcd2apWbewdgFqQ3FEqoFGg"  # Replace with your actual API key
+api_key = "API-KEY"  # Replace with your actual API key
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
